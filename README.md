@@ -1,4 +1,4 @@
-# PRIMESEC Final Advanced Nuke Tool
+# PRIMESEC Advanced Nuke Tool
 
 
 **ø₩₦ɇđ-฿ɏ-₱ɽł₥ɇ₴ɇ₵** - The ultimate Discord server disruption tool by PRIMESEC OPS. Expose, dominate, control.
